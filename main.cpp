@@ -1,4 +1,4 @@
 void main()
 {
-  Printf("Hello MajesticPoem!");
+  printf("Hello MajesticPoem!");
 }
